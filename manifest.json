@@ -8,7 +8,11 @@
   "mandatory": false,
   "changes": {
     "new": [],
-    "improvements": [],
+   "improvements": [
+  "PresentMon-Dienst wird auf Verfügbarkeit geprüft.",
+  "Installationshilfe mit Link zur offiziellen PresentMon-Seite ergänzt.",
+  "Hinweis zum Neustart von FORZA CONTROL CENTER nach Wiederherstellung des PresentMon-Dienstes ergänzt."
+],
     "fixes": []
   },
   "history": []
