@@ -79,8 +79,7 @@ GitHub Releases bereitgestellt.
 Zum Aktualisieren lädst du das gewünschte Release herunter und
 extrahierst das vollständige Archiv in einen geeigneten Ordner.
 
-Eine automatische Update-Prüfung und Installation ist in
-Build 001 noch nicht vollständig umgesetzt.
+Die automatische Update-Prüfung erfolgt höchstens einmal pro 24 Stunden, wenn sie in den Einstellungen aktiviert ist und eine neue Prüfung fällig ist. Updates werden in Build 001 nicht automatisch installiert. Die Aktualisierung erfolgt manuell durch das Herunterladen des vollständigen ZIP-Archivs und das anschließende Extrahieren in einen geeigneten Ordner.
 
 ## Drittanbieter-Komponente
 
