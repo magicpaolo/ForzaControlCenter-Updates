@@ -1,10 +1,8 @@
-# FORZA CONTROL CENTER – Updates
+# RALLOC RACING CENTER – Updates
 
-Offizielles Update-Repository für
-**FORZA CONTROL CENTER Professional Edition**.
+Offizielles Update-Repository für RALLOC RACING CENTER.
 
-Hier findest du die veröffentlichten Programmversionen,
-Download-Archive und wichtige Installationshinweise.
+Hier findest du die veröffentlichten Programmversionen, Download-Archive und wichtige Installationshinweise.
 
 ## Aktuelle Version
 
@@ -37,9 +35,8 @@ Starte das Programm nicht direkt innerhalb des ZIP-Archivs.
 Die FPS-Erfassung benötigt zusätzlich den separaten
 **PresentMon Shared Service**.
 
-Die Datei `PresentMonAPI2Loader.dll` ist im FORZA-CONTROL-CENTER-
-ZIP enthalten. Der PresentMon-Dienst selbst wird nicht mitgeliefert
-und von FORZA CONTROL CENTER Build 001 nicht automatisch installiert.
+Die Datei `PresentMonAPI2Loader.dll` ist im RALLOC-RACING-CENTER-ZIP enthalten. Der PresentMon-Dienst selbst wird nicht mitgeliefert
+und von RALLOC RACING CENTER Build 001 nicht automatisch installiert.
 
 ### Getestete Version
 
@@ -59,11 +56,11 @@ gesondert auf Kompatibilität geprüft.
 - **PresentMon-Dienst nicht installiert:** Installiere PresentMon
   über das offizielle Installationspaket.
 - **PresentMon-Dienst gestoppt:** Wenn der Dienst installiert,
-  aber nicht gestartet ist, zeigt FORZA CONTROL CENTER eine
+  aber nicht gestartet ist, zeigt RALLOC RACING CENTER eine
   Warnmeldung und die Schaltfläche „Hilfe / Download“ an.
 - **Dienst wurde neu gestartet:** Wenn der Dienst während einer
   laufenden Anwendung gestoppt und anschließend wieder gestartet
-  wurde, schließe FORZA CONTROL CENTER und starte es erneut.
+  wurde, schließe RALLOC RACING CENTER und starte es erneut.
 - **Loader-Datei fehlt:** Prüfe, ob `PresentMonAPI2Loader.dll`
   im selben Ordner wie `ForzaControlCenter.exe` liegt.
 
