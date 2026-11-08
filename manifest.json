@@ -4,14 +4,14 @@
   "version": "4.0.0",
   "displayVersion": "4.0 Build 001",
   "downloadUrl": "https://github.com/magicpaolo/ForzaControlCenter-Updates/releases/download/v4.0.0/ForzaControlCenter-4.0.0-win-x64.zip",
-  "releaseNotes": "FORZA CONTROL CENTER Professional Edition 4.0 - Build 001",
+  "releaseNotes": "RALLOC RACING CENTER Professional Edition 4.0 - Build 001",
   "mandatory": false,
   "changes": {
     "new": [],
    "improvements": [
   "PresentMon-Dienst wird auf Verfügbarkeit geprüft.",
   "Installationshilfe mit Link zur offiziellen PresentMon-Seite ergänzt.",
-  "Hinweis zum Neustart von FORZA CONTROL CENTER nach Wiederherstellung des PresentMon-Dienstes ergänzt."
+  "Hinweis zum Neustart von RALLOC RACING CENTER nach Wiederherstellung des PresentMon-Dienstes ergänzt."
 ],
     "fixes": []
   },
